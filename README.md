@@ -16,4 +16,5 @@ Also the code is written as such that it downloads all the images displayed on a
 Feel free to tweak the code as per your necessity.
 </br>
 </br>
+## The code is written using selenium and pyhton, so install both of these beforehand.
 THANK YOU.
